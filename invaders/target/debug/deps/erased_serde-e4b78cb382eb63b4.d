@@ -1,0 +1,13 @@
+/workspaces/IDS721-PJ2/invaders/target/debug/deps/erased_serde-e4b78cb382eb63b4.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/macros.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/any.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/de.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/features_check/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/map.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/ser.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/private.rs
+
+/workspaces/IDS721-PJ2/invaders/target/debug/deps/erased_serde-e4b78cb382eb63b4.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/macros.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/any.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/de.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/features_check/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/map.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/ser.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/private.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/macros.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/any.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/de.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/error.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/features_check/mod.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/map.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/ser.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.24/src/private.rs:
