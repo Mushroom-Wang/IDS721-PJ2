@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Invaders Game
+Invaders is an open source terminal arcade game with audio, based off of the "Space Invaders" classic arcade game.
 
 ## References
 
